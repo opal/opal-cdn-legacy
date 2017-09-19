@@ -1,4 +1,4 @@
-# Opal CDN distribution
+# Opal CDN distribution (Legacy)
 
 *For more recent releases see [cdn.opalrb.com](https://cdn.opalrb.com)*
 
