@@ -1,5 +1,7 @@
 # Opal CDN distribution
 
+*For more recent releases see [cdn.opalrb.com](https://cdn.opalrb.com)*
+
 ## URL scheme
 
     //cdn.opalrb.org/opal/<VERSION>/opal.js
